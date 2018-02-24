@@ -1,5 +1,6 @@
 # fabrica development and testing
-connect_test.json
+*_dev.json
+*_test.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

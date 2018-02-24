@@ -1,0 +1,25 @@
+{
+    "connect_json": {
+        "device_token": "<received from server>"
+    },
+    "data_json": [
+        {
+            "actions": [
+                "turn_pump_on"
+            ],
+            "data": {
+                "device_on_time": 60,
+                "temp": 3
+            }
+        }
+    ],
+    "device_message_log": [
+        "log initialised",
+        "SUCCESS: device is valid",
+        "SUCCESS: token secured",
+        "SUCCESS: token set"
+    ],
+    "main_log": [
+        "log initialised"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "connect_json": "connect.json",
+    "input_data": "input_data.json",
+    "output_data": "output_data.json",
+    "host-alternate": "http://DEVICE-IP/",
+    "host": "http://autotron6.com/",
+    "device_init": "api_connect.php?action=device_init",
+    "device_message": "api_connect.php?action=device_message"
+}
